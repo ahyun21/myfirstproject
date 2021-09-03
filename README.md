@@ -1,2 +1,4 @@
 # myfirstproject
-r
+
+This is first project folder.
+
